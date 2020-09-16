@@ -8,7 +8,7 @@ As a great fan of the coffee shop Starbucks I was curious to see where they are 
 ### Technologies Used:
 - Python 3
 - Pandas
-- Tableau
+- Tableau : https://public.tableau.com/profile/orion.ford#!/vizhome/ALookIntoStarbucksLocations/Dashboard1
 - Jupyter Notebook
 
 
