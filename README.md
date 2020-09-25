@@ -2,13 +2,14 @@
 <img src="">
 
 ### Overview:
-As a great fan of the coffee shop Starbucks I was curious to see where they are located for future travels. After importing the data found from Kaggle, I was able to see the number of locations in the countries of United States, Canada and Russia. Included is a visualization of the data as well to work on my Tableau skills. Hope you enjoy!
+
+When first learning how to code I would always go to Starbucks for a great coffee. Yes many would choose the franchise because of it's popularity. Others like myself went because it was very accessible. Since then I've been a major fan I always wanted to find more shops to visit while traveling. While observing the data I noticed that many locations are out there. I wanted to get more insight of the locations in the United States for Atlanta, Charlotte and LA.
 
 
 ### Technologies Used:
 - Python 3
 - Pandas
-- Tableau : https://public.tableau.com/profile/orion.ford#!/vizhome/ALookIntoStarbucksLocations/Dashboard1
+- Tableau 
 - Jupyter Notebook
 
 
